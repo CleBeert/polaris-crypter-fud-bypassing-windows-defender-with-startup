@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=L1ISrGebstk
 
 
 
-
+# Contact US
 Skype Contact : live:.cid.b0651c3edc7f22ec
 
 
@@ -30,12 +30,12 @@ Email Contact : polarisobfuscation@outlook.com
 
 
 
-PolarisForum : Coming Soon.
+# Licensing
+Login/Register
 
 
 
-
-
+# Features
 
 -Private Obfuscation
 -Private Startup
