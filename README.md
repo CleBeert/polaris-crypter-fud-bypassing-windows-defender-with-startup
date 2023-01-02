@@ -44,17 +44,23 @@ Login/Register
 -Anti-VM
 -Fast Support
 
-PRICES : 
+
+# Prices
 [ Shared ]
 65$ - 1 Month
+
 130$ - 2 Months
+
 195$ - 3 Months
 
 
-PRIVATE :
+[ PRIVATE  ]:
 Basic Level Price : 600$
+
 Advanced Level Price : 1200$
+
 Enterprise Level Price : 3000$
+
 All In One Level Price : 5000$
 
 
