@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=L1ISrGebstk
 Skype Contact : live:.cid.b0651c3edc7f22ec
 
 
-
+Telegram Contact :  https://t.me/PolarisEncryption
 
 
 
