@@ -1,13 +1,6 @@
 # PolarisEncryption-Bypass-Windows-Defender-2023
 Polaris Obfuscation/Encryption!
 
-[ INTRO ]
-
-
-
-https://user-images.githubusercontent.com/121741424/210188037-5c88dda6-c99e-4233-89b2-2f67d21381e5.mp4
-
-
 
 [ WINDOWS DEFENDER BYPASS WITH SATRTUP VIDEO LINK ]
 
