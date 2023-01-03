@@ -29,6 +29,11 @@ Email Contact : polarisobfuscation@outlook.com
 
 
 
+# PolarisForums
+
+https://polarisobfuscation.com/
+
+
 
 # Licensing
 Login/Register
