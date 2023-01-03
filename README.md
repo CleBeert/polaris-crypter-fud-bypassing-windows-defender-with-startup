@@ -28,6 +28,7 @@ Telegram Contact :  https://t.me/PolarisEncryption
 Email Contact : polarisobfuscation@outlook.com
 
 
+Telegram Channel : https://t.me/+o3QtwLNVRvkwNTM0
 
 # PolarisForums
 
