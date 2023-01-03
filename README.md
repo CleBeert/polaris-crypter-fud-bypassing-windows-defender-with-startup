@@ -25,7 +25,7 @@ Telegram Channel : https://t.me/+o3QtwLNVRvkwNTM0
 
 # PolarisForums
 
-Registration Only With Invite, Cost 10$
+Registration is free.
 https://polarisobfuscation.com/
 
 
