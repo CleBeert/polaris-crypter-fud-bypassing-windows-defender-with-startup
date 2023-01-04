@@ -25,8 +25,7 @@ Telegram Channel : https://t.me/+o3QtwLNVRvkwNTM0
 
 # PolarisForums
 
-Registration is free.
-https://polarisobfuscation.com/
+
 
 
 
