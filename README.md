@@ -8,8 +8,7 @@ Polaris Obfuscation/Encryption!
 https://www.youtube.com/watch?v=L1ISrGebstk
 
 
-#Forum
-https://polarisobfuscation.com/index.php
+
 
 
 # Contact US
@@ -28,7 +27,7 @@ Telegram Channel : https://t.me/+o3QtwLNVRvkwNTM0
 
 # PolarisForums
 
-
+https://polarisobfuscation.com/index.php
 
 
 
