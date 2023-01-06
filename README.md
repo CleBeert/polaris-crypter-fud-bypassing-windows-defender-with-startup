@@ -8,6 +8,9 @@ Polaris Obfuscation/Encryption!
 https://www.youtube.com/watch?v=L1ISrGebstk
 
 
+#Forum
+https://polarisobfuscation.com/index.php
+
 
 # Contact US
 Skype Contact : live:.cid.b0651c3edc7f22ec
